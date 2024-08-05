@@ -16,41 +16,47 @@ Websites:
 
 */
 
+
 export const projectsData = [
+
   {
     id: 1,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    name: "corinna-ai-project-major(SAAS)",
+    description: "Developed a SaaS platform leveraging a modern tech stack for sales automation and customer engagement",
+    date: "2024-08-12",
+    demoLink: "https://github.com/rasmiranjanpatnaik/corinna-ai-project-major",
   },
+
   {
     id: 2,
-    name: "ArtGallery Online",
-    description: "Digital art showcase platform",
-    date: "2022-06-20",
-    demoLink: "https://artgalleryonline.example.com",
+    name: "Health-management-online-booking-realtime",
+    description: "A Complete health care plateform",
+    date: "2024-06-25",
+    demoLink: "https://github.com/rasmiranjanpatnaik/Health-management-online-booking-realtime",
   },
+
   {
     id: 3,
-    name: "BudgetPlanner",
-    description: "Plan and track expenses",
-    date: "2022-09-10",
-    demoLink: "https://budgetplanner.example.com",
+    name: "Brainwave - Modern UI/UX website",
+    description: "Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.",
+    date: "2024-05-20",
+    demoLink: "https://brain-wave-ai.netlify.app/",
   },
+
   {
     id: 4,
-    name: "HealthBeat",
-    description: "Monitor heart rate zones",
-    date: "2022-05-30",
-    demoLink: "https://healthbeat.example.com",
+    name: "Apple Iphone 15pro web desigen",
+    description: "This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.",
+    date: "2024-06-01",
+    demoLink: "https://appleiphone15new.netlify.app/",
   },
+
   {
     id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
-    date: "2022-07-12",
-    demoLink: "https://recipefinder.example.com",
+    name: "Study platform",
+    description: "A complete online study platform ",
+    date: "2023-08-15",
+    demoLink: "https://study-notion-frontend-mu.vercel.app/",
   },
   {
     id: 6,
@@ -96,25 +102,25 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://github.com/rasmiranjanpatnaik",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https://www.linkedin.com/in/rasmiranjanpatnaik/",
     icon: "linkedin",
     newTab: true,
   },
   {
-    label: "X",
-    link: "https://www.x.com/code_bucks",
-    icon: "twitter",
+    label: "Leetcode",
+    link: "https://leetcode.com/u/RasmiRanjanpatnaik2/",
+    icon: "leetcode",
     newTab: true,
   },
   {
     label: "Resume",
-    link: "/resume.pdf",
+    link: "https://drive.google.com/file/d/12ZMaf_cx5b7-eDsBlkUVrRv1EoD3aLZB/view?usp=drivesdk  ",
     icon: "resume",
     newTab: true,
   },
