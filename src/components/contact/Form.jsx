@@ -35,6 +35,7 @@ export default function Form() {
         process.env.NEXT_PUBLIC_TEMPLATE_ID,
         params,
         process.env.NEXT_PUBLIC_PUBLIC_KEY
+        
       )
       .then(
         () => {
